@@ -1,2 +1,3 @@
 # Tic Tac Toe game
-In cmd you can play tic tac toe one against the other or against a bot
+This code lets you play Tic-Tac-Toe in console.
+You can play either oagainst an oponent or a bot
